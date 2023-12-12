@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/proyecto122/static/css/main.167c4339.css",
+    "main.js": "/proyecto122/static/js/main.f2ae12ca.js",
+    "static/js/787.74c97d79.chunk.js": "/proyecto122/static/js/787.74c97d79.chunk.js",
+    "static/media/mueble1.png": "/proyecto122/static/media/mueble1.6e8821d77c0a4aba8a54.png",
+    "static/media/mueble2.png": "/proyecto122/static/media/mueble2.43fc0757248f002f229c.png",
+    "static/media/titulo.png": "/proyecto122/static/media/titulo.aaa06e91d7c9e33861a7.png",
+    "static/media/mueble3.png": "/proyecto122/static/media/mueble3.5c873885594ae9c7169d.png",
+    "static/media/interior3.png": "/proyecto122/static/media/interior3.2c27adb8d2353fe116a4.png",
+    "static/media/interior4.png": "/proyecto122/static/media/interior4.3f817e3da9688e3859c8.png",
+    "static/media/interior1.png": "/proyecto122/static/media/interior1.90404e5d318066624269.png",
+    "static/media/interior2.png": "/proyecto122/static/media/interior2.162062f5986eb1e463f6.png",
+    "static/media/botsillon.png": "/proyecto122/static/media/botsillon.b31daf4f1b58af89d8e0.png",
+    "static/media/botmesa.png": "/proyecto122/static/media/botmesa.799aaa8fcf70f06c4cf6.png",
+    "static/media/bottocador.png": "/proyecto122/static/media/bottocador.58c071a7c8db1ec07a88.png",
+    "static/media/oficina.png": "/proyecto122/static/media/oficina.e70cc29093d01a24b835.png",
+    "static/media/botcama.png": "/proyecto122/static/media/botcama.78a6d52a6ad5a2f70ab3.png",
+    "static/media/entretenimiento.png": "/proyecto122/static/media/entretenimiento.b9d6b6388d69d9d39de4.png",
+    "static/media/botsilla.png": "/proyecto122/static/media/botsilla.81fa9e652e396cabc1b3.png",
+    "static/media/livingysofas.png": "/proyecto122/static/media/livingysofas.0f4a0372a66b20ad48f6.png",
+    "static/media/dormitorio.png": "/proyecto122/static/media/dormitorio.79701d45e3dd2e56c444.png",
+    "static/media/botropero.png": "/proyecto122/static/media/botropero.00ea2db014f1b4c08eb9.png",
+    "static/media/jardin.png": "/proyecto122/static/media/jardin.030ab71a702a574675a1.png",
+    "static/media/modulares.png": "/proyecto122/static/media/modulares.2d24738efbd4abd29d81.png",
+    "static/media/mesas.png": "/proyecto122/static/media/mesas.ccf05d688382606c6e8d.png",
+    "index.html": "/proyecto122/index.html",
+    "main.167c4339.css.map": "/proyecto122/static/css/main.167c4339.css.map",
+    "main.f2ae12ca.js.map": "/proyecto122/static/js/main.f2ae12ca.js.map",
+    "787.74c97d79.chunk.js.map": "/proyecto122/static/js/787.74c97d79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167c4339.css",
+    "static/js/main.f2ae12ca.js"
+  ]
+}
